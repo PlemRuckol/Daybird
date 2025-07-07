@@ -1,0 +1,10 @@
+[
+  { "content": "안녕하세요", "direction": "L" },
+  { "content": "반갑습니다", "direction": "R" },
+  { "content": "오늘 날씨 어때요?", "direction": "L" },
+  { "content": "맑고 따뜻해요", "direction": "R" },
+  { "content": "점심은 드셨어요?", "direction": "L" },
+  { "content": "네, 간단히 먹었어요", "direction": "R" },
+  { "content": "오후에 뭐 하실 거예요?", "direction": "L" },
+  { "content": "산책하려고요", "direction": "R" }
+]
